@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sacrent
-- 👀 I’m interested in learn more over Swift
-- 🌱 I’m currently learning Swift
+- 👀 I’m interested in Python and Pentesting
+- 🌱 I’m currently learning Programming nad Pentesting
 - 💞️ I’m looking to collaborate on Apps
 - 📫 How to reach me here 
 
